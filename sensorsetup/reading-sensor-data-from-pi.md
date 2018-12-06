@@ -61,7 +61,7 @@ The two grey ones are reserved for other special use cases that aren't of our co
 For the sensor setup, we'll be using pins number 2 (5V), 4 (GND) and 7 (GPIO4).
 We'll connect pin 2 (5V) to the sensor's positive pole and pin 4 (GND) to its negative pole, thus forming the basis for an electric circuit.
 Pin 7 (GPIO4) will connect to the sensor's signal pin so that we can get readings.
-![DHT11 pins](https://mounishkokkula.files.wordpress.com/2017/02/dht11-pinout-for-three-pin-and-four-pin-types-21.jpg)
+![DHT11 pins](http://www.circuitbasics.com/wp-content/uploads/2015/12/How-to-Setup-the-DHT11-on-the-Raspberry-Pi-Three-pin-DHT11-Wiring-Diagram.png)
 
 The resulting circuit should look similar to this:
 
